@@ -1,0 +1,15 @@
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\bin\Debug\net6.0\TugasPrakPBO1.exe
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\bin\Debug\net6.0\TugasPrakPBO1.deps.json
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\bin\Debug\net6.0\TugasPrakPBO1.runtimeconfig.json
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\bin\Debug\net6.0\TugasPrakPBO1.dll
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\bin\Debug\net6.0\TugasPrakPBO1.pdb
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\TugasPrakPBO1.csproj.AssemblyReference.cache
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\TugasPrakPBO1.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\TugasPrakPBO1.AssemblyInfoInputs.cache
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\TugasPrakPBO1.AssemblyInfo.cs
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\TugasPrakPBO1.csproj.CoreCompileInputs.cache
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\TugasPrakPBO1.dll
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\refint\TugasPrakPBO1.dll
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\TugasPrakPBO1.pdb
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\TugasPrakPBO1.genruntimeconfig.cache
+D:\document\PBO\TugasPrakPBO1\TugasPrakPBO1\obj\Debug\net6.0\ref\TugasPrakPBO1.dll
